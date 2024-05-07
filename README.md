@@ -1,5 +1,6 @@
 # Login System using PHP, SQL Server, and XAMPP
-This is a site made with React designed to help you control your activities. You can add and delete activities as needed.
+This is a simple login system developed in PHP, utilizing a SQL Server database and running on the XAMPP development environment.\ 
+The aim of this project is to demonstrate how to create a basic authentication system in PHP, using a SQL Server database to store user information.
 
 ## Features
 Features
